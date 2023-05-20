@@ -35,24 +35,6 @@ Understanding these concepts is key to building effective and efficient websites
 1. SCSS stands for Sassy CSS and is a type of preprocessor for CSS. It allows for the use of variables, functions, and nesting, making it easier to write and maintain large CSS files. One example of a difference between CSS and SCSS is that in SCSS, you can define a variable for a color and use it throughout the file, making it easier to update the color in the future.
 2. Computer resistors are electronic components that resist the flow of electrical current. They work by reducing the amount of current that flows through a circuit, which can be useful for controlling the voltage of a circuit. Resistors are typically made of a material that resists the flow of electricity, such as carbon or metal. The resistance of a resistor is measured in ohms and is represented by a color code on the resistor itself.
 
-# Make a to-do list
-
----
-
-- [x]  Wake up
-- [x]  Brush teeth
-- [ ]  Eat breakfast
-
-# Create sub-pages
-
----
-
 [Sub Page](https://www.notion.so/Sub-Page-af5c7e9f151548f58f0dd3a60c83f6bf)
 
 # Embed links
-
----
-
-[Beyond Frank Lloyd Wright: A Broader View of Art in Chicago](https://www.nytimes.com/2018/03/08/arts/chicago-museums-art.html?rref=collection%2Fsectioncollection%2Ftravel)
-
-[Havana's Symphony of Sound](https://www.nytimes.com/2018/03/12/travel/havana-cuba.html?rref=collection%2Fsectioncollection%2Ftravel)
